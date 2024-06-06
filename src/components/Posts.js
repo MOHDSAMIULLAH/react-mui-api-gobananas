@@ -110,7 +110,7 @@ const Posts = () => {
                       <Box display="flex" alignItems="center">
                         <Avatar
                           alt="Mohd Samiullah"
-                          src="https://images.unsplash.com/photo-1502980426475-b83966705988?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=373&q=80"
+                          src="https://res.cloudinary.com/dmvhsshp3/image/upload/v1716387631/CloudinaryDemo/ooravf4mwt1azqvqxvrx.png"
                           sx={{ mr: 2 }}
                         />
                         <Typography

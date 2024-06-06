@@ -13,7 +13,7 @@ This is a simple React application that fetches data from the JSONPlaceholder AP
 
 ## Demo
 
-You can view the deployed application [here](https://yourapp.vercel.app).
+You can view the deployed application: https://react-mui-api-gobananas.vercel.app
 
 ## Getting Started
 
@@ -32,8 +32,8 @@ npm -v
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/react-material-ui-api.git
-cd react-material-ui-api
+git clone https://github.com/MOHDSAMIULLAH/react-mui-api-gobananas.git
+cd react-mui-api-gobananas
 ```
 
 2. Install the dependencies:
@@ -53,7 +53,7 @@ The app should now be running on [http://localhost:3000](http://localhost:3000).
 
 ## Contact
 
-Your Name - Mohd Samiullah 
+My Name - Mohd Samiullah 
 
-Project Link: [https://github.com/yourusername/react-material-ui-api](https://github.com/yourusername/react-material-ui-api)
-```
+Project Link: https://github.com/MOHDSAMIULLAH/react-mui-api-gobananas(https://github.com/MOHDSAMIULLAH/react-mui-api-gobananas)
+
